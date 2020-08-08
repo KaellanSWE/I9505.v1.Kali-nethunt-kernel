@@ -36,3 +36,4 @@ We're relying on you, the community, to port your devices for the full Kali NetH
 
 Tue Apr  30 02:09:40 AEST 2019
 
+# I9505.v1.Kali-nethunt-kernel
